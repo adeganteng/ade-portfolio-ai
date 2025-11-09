@@ -7,12 +7,15 @@ import { ThemeCustomizer } from "./components/theme/ThemeCustomizer";
 import { ChatBot } from "./components/ai/ChatBot";
 import { CursorTrail } from "./components/effects/CursorTrail";
 import { Experience } from "./pages/Experience";
+import ScrollToTop from "./components/common/ScrollToTop";
 
 function App() {
   return (
     <ThemeProvider>
       <Router>
         <div className="relative ">
+          {/* Scroll To Top */}
+          <ScrollToTop />
           {/* Custom Cursor Trail */}
           <CursorTrail />
 
