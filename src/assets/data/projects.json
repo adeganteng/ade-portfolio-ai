@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "title": "Meeting Room Booking",
+    "description": "Web-based meeting room booking system with real-time schedule management and notifications.",
+    "image": "/projects/meeting-room-booking.jpg",
+    "tags": ["Laravel", "Livewire", "MySQL", "Tailwind"],
+    "github": "#",
+    "demo": null,
+    "featured": false
+  },
+  {
+    "id": 2,
+    "title": "RKA Automation",
+    "description": "Automated conversion system to transform RKA (Work and Budget Plans) from PDF to Excel format.",
+    "image": "/projects/rka-automation.jpg",
+    "tags": ["Python", "PlumberPdf", "gradio", "etc.."],
+    "github": null,
+    "demo": null,
+    "featured": false
+  },
+  {
+    "id": 3,
+    "title": "RAK Automation",
+    "description": "System for automating RAK (Activity Budget Plan) conversion from PDF to Excel with data validation.",
+    "image": "/projects/rak-automation.jpg",
+    "tags": ["Python", "PlumberPdf", "gradio", "etc.."],
+    "github": null,
+    "demo": null,
+    "featured": false
+  },
+  {
+    "id": 4,
+    "title": "SPD Automation",
+    "description": "Application to automate extraction of SPD (Travel Order) data from PDF to Excel.",
+    "image": "/projects/spd-automation.jpg",
+    "tags": ["Python", "PlumberPdf", "gradio", "etc.."],
+    "github": "https://github.com/yourusername/spd-automation",
+    "demo": null,
+    "featured": false
+  },
+  {
+    "id": 5,
+    "title": "Andina Portfolio",
+    "description": "Interactive portfolio website with responsive design and AI feature integration.",
+    "image": "/projects/andina-portfolio.jpg",
+    "tags": ["React", "Tailwind"],
+    "github": "https://github.com/adeganteng/andina-portfolio",
+    "demo": "https://andina-portfolio.vercel.app/",
+    "featured": true
+  },
+  {
+    "id": 6,
+    "title": "Recipe Finder",
+    "description": "Recipe search application featuring ingredient filters and cooking instructions from Youtube.",
+    "image": "/projects/recipe-finder.jpg",
+    "tags": ["React", "Tailwind"],
+    "github": "https://github.com/adeganteng/recipe_finder",
+    "demo": "https://recipe-finder-theta-two.vercel.app/",
+    "featured": true
+  },
+  {
+    "id": 7,
+    "title": "AI Face Recognition",
+    "description": "AI-powered facial recognition system capable of detecting age, gender, and emotion using TensorFlow.",
+    "image": "/projects/ai-face-recognition.jpg",
+    "tags": ["React", "TensorFlow.js", "Node.js", "AI"],
+    "github": "https://github.com/adeganteng/ai-facerecognition",
+    "demo": "https://ai-facerecognition-by-ade.vercel.app/",
+    "featured": true
+  },
+  {
+    "id": 8,
+    "title": "Kodok Generator",
+    "description": "AI-based creative content generator specializing in unique frog-themed texts and images.",
+    "image": "/projects/kodok-generator.jpg",
+    "tags": ["React", "AI", "Node.js"],
+    "github": "https://github.com/adeganteng/kodok-generator",
+    "demo": "https://kodok-generator.vercel.app/",
+    "featured": false
+  },
+  {
+    "id": 9,
+    "title": "Zero AI",
+    "description": "SaaS AI platform featuring data analytics and automated chatbot functionalities.",
+    "image": "/projects/zero-ai.jpg",
+    "tags": ["React", "TensorFlow.js", "Node.js", "AI"],
+    "github": null,
+    "demo": "https://zero-ai-swart.vercel.app/",
+    "featured": false
+  }
+]

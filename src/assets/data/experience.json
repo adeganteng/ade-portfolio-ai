@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "title": "Operator Production",
+    "company": "PT Prima Sejati Sejahtera 2",
+    "location": "Jakarta, Indonesia",
+    "type": "Full-Time Employee",
+    "startDate": "2022-06",
+    "endDate": "2024-07",
+    "current": false,
+    "description": "Experienced CNC Operator specializing in sewing processes, with a strong focus on precision, accuracy, and efficiency.",
+    "achievements": [
+      "Consistently met daily and weekly production targets with high accuracy and minimal defects",
+      "Performed machine setup, calibration, and basic troubleshooting to prevent downtime.",
+      "Ensured quality control through regular monitoring and adjustment during production runs",
+      "Collaboration with a team of 10+ operators to optimize workflow and improve overall efficiency",
+      "etc"
+    ],
+    "technologies": [
+      "CNC Machine",
+      "Single Needle",
+      "Double Needle",
+      "Overlock Machine"
+    ],
+    "featured": true
+  },
+  {
+    "id": 2,
+    "title": "Freelance Web Developer",
+    "company": "Self-Employed",
+    "location": "Remote",
+    "type": "Freelance",
+    "startDate": "2026-06",
+    "endDate": null,
+    "current": true,
+    "description": "Building custom web solutions for local businesses and startups.",
+    "achievements": [
+      "Completed 3+ projects with 5-star ratings",
+      "Building with AI for collaboration and efficiency"
+    ],
+    "technologies": ["Laravel", "React", "Node.js", "MySQL"],
+    "featured": false
+  },
+  {
+    "id": 3,
+    "title": "IT Support ",
+    "company": "DISPERUMKIMTAN Kota Surakarta",
+    "location": "Office/Sekretariat",
+    "type": "Internship",
+    "startDate": "2025-09",
+    "endDate": "2025-11",
+    "current": false,
+    "description": "Provided technical support to students and faculty, maintained lab equipment.",
+    "achievements": [
+      "Building project using AI for collaboration and efficiency",
+      "Building project Automation for efficiency in work using Python",
+      "Building design x-banner using CorelDRAW and Canva"
+    ],
+    "technologies": ["AI", "Canva", "CorelDRAW", "Python"],
+    "featured": true
+  }
+]

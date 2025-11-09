@@ -1,0 +1,61 @@
+[
+  {
+    "id": 1,
+    "name": "TK ABA Kebonharjo",
+    "degree": "Kindergarten",
+    "startDate": "2008-07",
+    "endDate": "2010-06",
+    "current": false,
+    "location": "Klaten, Indonesia",
+    "achievements": ["Participate as a regular student"]
+  },
+  {
+    "id": 2,
+    "name": "SDN Kebonharjo",
+    "degree": "Elementary School",
+    "startDate": "2010-07",
+    "endDate": "2016-06",
+    "current": false,
+    "location": "Klaten, Indonesia",
+    "achievements": [
+      "Football competition winner at district level",
+      "Football competition winner at city level"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "SMP IT Nur Hasan Boyolali",
+    "degree": "Junior High School",
+    "startDate": "2016-07",
+    "endDate": "2019-06",
+    "current": false,
+    "location": "Boyolali, Indonesia",
+    "achievements": ["Student council member", "Just an ordinary student"]
+  },
+  {
+    "id": 4,
+    "name": "SMK Muhammadiyah Delanggu",
+    "degree": "Vocational High School",
+    "startDate": "2019-07",
+    "endDate": "2022-06",
+    "current": false,
+    "location": "Klaten, Indonesia",
+    "achievements": [
+      "Proffesional Football Player",
+      "Best of 3 Tartil Qur'an Competition"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Universitas Duta Bangsa Surakarta",
+    "degree": "Bachelor of Information Systems",
+    "startDate": "2022-08",
+    "endDate": "2026-06",
+    "current": true,
+    "location": "Surakarta, Indonesia",
+    "achievements": [
+      "Just an ordinary student",
+      "Working on various projects and assignments"
+    ]
+  }
+]
