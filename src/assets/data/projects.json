@@ -88,5 +88,15 @@
     "github": null,
     "demo": "https://zero-ai-swart.vercel.app/",
     "featured": false
+  },
+  {
+    "id": 10,
+    "title": "AI Resume Analyze",
+    "description": "SaaS AI platform for analyze your resume.",
+    "image": "/projects/ai-resume-analyze.jpg",
+    "tags": ["React", "GeminiAI", "Node.js", "AI"],
+    "github": "https://github.com/adeganteng/ade-portfolio-ai",
+    "demo": "https://ai-resume-analyzer-delta-dusky.vercel.app/",
+    "featured": false
   }
 ]
